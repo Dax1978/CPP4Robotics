@@ -9,13 +9,13 @@ CONFIG += c++17
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-    gamefield.cpp \
-    main.cpp \
-    snake.cpp
+    src/gamefield.cpp \
+    src/main.cpp \
+    src/snake.cpp
 
 HEADERS += \
-    gamefield.hpp \
-    snake.hpp
+    include/gamefield.hpp \
+    include/snake.hpp
 
 # Строчка для указания файла ресурса (в моем случае это иконка приложения)
 # CTRL + мышкой на resource.rc -> открою resource.rc и вписываю там соответствующее содержимое для иконки
@@ -26,7 +26,7 @@ qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
-DISTFILES += \
-    apple.png \
-    dot.png \
-    head.png
+#DISTFILES +=
+
+RESOURCES += \
+    img.qrc

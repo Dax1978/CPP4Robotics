@@ -9,7 +9,7 @@
         "-I",
         "D:\\Qt\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\QtCreator-frYvwo\\clang-uiheader-klgTzS",
+        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\QtCreator-pbTEkJ\\clang-uiheader-VzWqCq",
         "-nostdinc",
         "-nostdinc++",
         "-march=nocona",
@@ -48,6 +48,8 @@
         "D:\\msys64\\mingw64\\include\\QtCore",
         "-I",
         "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug\\debug",
+        "-I",
+        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\include",
         "-I",
         "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug",
         "-I",
@@ -73,10 +75,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\gamefield.cpp"
+        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\src\\gamefield.cpp"
     ],
     "directory": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug/.qtc_clangd",
-    "file": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/Snake/gamefield.cpp"
+    "file": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/Snake/src/gamefield.cpp"
 },
 {
     "arguments": [
@@ -88,7 +90,7 @@
         "-I",
         "D:\\Qt\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\QtCreator-frYvwo\\clang-uiheader-klgTzS",
+        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\QtCreator-pbTEkJ\\clang-uiheader-VzWqCq",
         "-nostdinc",
         "-nostdinc++",
         "-march=nocona",
@@ -127,6 +129,8 @@
         "D:\\msys64\\mingw64\\include\\QtCore",
         "-I",
         "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug\\debug",
+        "-I",
+        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\include",
         "-I",
         "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug",
         "-I",
@@ -152,10 +156,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\main.cpp"
+        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\src\\main.cpp"
     ],
     "directory": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug/.qtc_clangd",
-    "file": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/Snake/main.cpp"
+    "file": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/Snake/src/main.cpp"
 },
 {
     "arguments": [
@@ -167,7 +171,7 @@
         "-I",
         "D:\\Qt\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\QtCreator-frYvwo\\clang-uiheader-klgTzS",
+        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\QtCreator-pbTEkJ\\clang-uiheader-VzWqCq",
         "-nostdinc",
         "-nostdinc++",
         "-march=nocona",
@@ -206,6 +210,8 @@
         "D:\\msys64\\mingw64\\include\\QtCore",
         "-I",
         "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug\\debug",
+        "-I",
+        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\include",
         "-I",
         "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug",
         "-I",
@@ -231,10 +237,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\snake.cpp"
+        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\src\\snake.cpp"
     ],
     "directory": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug/.qtc_clangd",
-    "file": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/Snake/snake.cpp"
+    "file": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/Snake/src/snake.cpp"
 },
 {
     "arguments": [
@@ -246,7 +252,7 @@
         "-I",
         "D:\\Qt\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\QtCreator-frYvwo\\clang-uiheader-klgTzS",
+        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\QtCreator-pbTEkJ\\clang-uiheader-VzWqCq",
         "-nostdinc",
         "-nostdinc++",
         "-march=nocona",
@@ -285,6 +291,8 @@
         "D:\\msys64\\mingw64\\include\\QtCore",
         "-I",
         "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug\\debug",
+        "-I",
+        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\include",
         "-I",
         "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug",
         "-I",
@@ -310,10 +318,10 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\gamefield.hpp"
+        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\include\\gamefield.hpp"
     ],
     "directory": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug/.qtc_clangd",
-    "file": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/Snake/gamefield.hpp"
+    "file": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/Snake/include/gamefield.hpp"
 },
 {
     "arguments": [
@@ -325,7 +333,7 @@
         "-I",
         "D:\\Qt\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\QtCreator-frYvwo\\clang-uiheader-klgTzS",
+        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\QtCreator-pbTEkJ\\clang-uiheader-VzWqCq",
         "-nostdinc",
         "-nostdinc++",
         "-march=nocona",
@@ -365,6 +373,8 @@
         "-I",
         "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug\\debug",
         "-I",
+        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\include",
+        "-I",
         "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug",
         "-I",
         "D:\\msys64\\mingw64\\share\\qt5\\mkspecs\\win32-g++",
@@ -389,9 +399,9 @@
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
         "-fno-delayed-template-parsing",
-        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\snake.hpp"
+        "E:\\archive\\study\\skillbox\\C++_4_robotics\\final\\final\\CPP4Robotics\\Snake\\include\\snake.hpp"
     ],
     "directory": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/build-Snake-Desktop_Qt_5_15_14_MinGV_64_bit-Debug/.qtc_clangd",
-    "file": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/Snake/snake.hpp"
+    "file": "E:/archive/study/skillbox/C++_4_robotics/final/final/CPP4Robotics/Snake/include/snake.hpp"
 }
 ]
