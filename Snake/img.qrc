@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>img/apple.png</file>
+        <file>img/dot.png</file>
+        <file>img/head.png</file>
+        <file>img/wall.png</file>
+    </qresource>
+</RCC>
